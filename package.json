@@ -1,6 +1,7 @@
 {
   "name": "usps",
   "description": "USPS Web Tools wrapper",
+  "version": "0.0.1",
   "keywords": [
     "xml",
     "usps"
