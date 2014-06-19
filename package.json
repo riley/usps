@@ -1,0 +1,22 @@
+{
+  "name": "usps",
+  "description": "USPS Web Tools wrapper",
+  "keywords": [
+    "xml",
+    "usps"
+  ],
+  "author": {
+    "name": "Riley Davis",
+    "email": "riley.davis@gmail.com",
+    "url": "http://rileydav.is"
+  },
+  "main": "./lib/usps",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "request": "2.36.*",
+    "underscore": "^1.6.0",
+    "xml2js": "0.4.4"
+  }
+}
